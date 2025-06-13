@@ -1,11 +1,14 @@
-# timelinejs-template
+---
+title: About timelinejs-template
+nav: About
+nav_order: 999
+layout: page-narrow
+---
 
-[timelinejs-template](https://github.com/thecdil/timelinejs-template) is a basic Jekyll template for creating self-hosted [TimelineJS](https://timeline.knightlab.com/) on GitHub Pages.
+[timelinejs-template](https://github.com/thecdil/timelinejs-template) is basic Jekyll template for creating self-hosted [TimelineJS](https://timeline.knightlab.com/) on GitHub Pages.
 It is compatible with existing timelines created in Google Sheets following the TimelineJS template or can be used with TimelineJS formatted JSON files.
 
-See [docs/timeline.md](https://github.com/thecdil/timelinejs-template/blob/main/docs/timeline.md) to get started!
-
-Demo: <https://thecdil.github.io/timelinejs-template/>
+{% include button.html text="Get Started" link="https://github.com/thecdil/timelinejs-template/blob/main/docs/timeline.md" color="success" %}
 
 *Note:* since the template implements self hosted TimelineJS3, please explore [TimelineJS](https://timeline.knightlab.com/) for more examples, data format documentation, and advanced features.
 
