@@ -1,7 +1,7 @@
 ---
 title: About timelinejs-template
 nav: About
-nav_order: 999
+nav_order: 100
 layout: page-narrow
 ---
 
