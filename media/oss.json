@@ -265,6 +265,17 @@
     {
       "group": "Events",
       "start_date": {
+        "year": "2012",
+        "month": "7"
+      },
+      "text": {
+        "headline": "HashiCorp founded",
+        "text": "Mitchell Hashimoto and Armon Dadgar found HashiCorp, beginning with Vagrant and later building infrastructure tools like Terraform, Consul, and Vault under open source licenses."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
         "year": "2012"
       },
       "text": {
@@ -299,6 +310,17 @@
       },
       "text": {
         "headline": "SugarCRM Open Source initiative ends."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2018",
+        "month": "1"
+      },
+      "text": {
+        "headline": "Red Hat acquires CoreOS for $250M",
+        "text": "Red Hat acquires CoreOS, gaining container expertise and the CoreOS Linux distribution, while consolidating its position in the enterprise Linux and container ecosystem."
       }
     },
     {
@@ -379,6 +401,17 @@
       }
     },
     {
+      "group": "Events",
+      "start_date": {
+        "year": "2019",
+        "month": "7"
+      },
+      "text": {
+        "headline": "IBM completes Red Hat acquisition for $34B",
+        "text": "IBM completes its acquisition of Red Hat for $34 billion, the largest software acquisition in history, promising to maintain Red Hat's open source commitment and independence."
+      }
+    },
+    {
       "group": "Issues",
       "start_date": {
         "year": "2019",
@@ -414,6 +447,17 @@
     {
       "group": "Events",
       "start_date": {
+        "year": "2021",
+        "month": "12"
+      },
+      "text": {
+        "headline": "HashiCorp goes public",
+        "text": "HashiCorp goes public on NASDAQ, raising $1.2 billion while maintaining its open source infrastructure tools, setting the stage for later licensing tensions with cloud providers."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
         "year": "2021"
       },
       "text": {
@@ -434,13 +478,57 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Events",
       "start_date": {
         "year": "2023"
       },
       "text": {
         "headline": "AI companies use permissive licenses without reciprocity",
         "text": "Large AI companies like OpenAI, Google, and Meta train models on vast amounts of open source code and data under permissive licenses, often without contributing back improvements or acknowledging sources."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2023",
+        "month": "6"
+      },
+      "text": {
+        "headline": "Red Hat restricts RHEL source code access",
+        "text": "Red Hat announces it will only make RHEL source code available to paying customers, effectively ending public access and violating the spirit of GPL while technically remaining compliant."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2023",
+        "month": "8"
+      },
+      "text": {
+        "headline": "HashiCorp changes Terraform to BSL",
+        "text": "HashiCorp changes Terraform from Mozilla Public License 2.0 to Business Source License (BSL), restricting competitive commercial use and sparking controversy in the infrastructure-as-code community."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2023",
+        "month": "8"
+      },
+      "text": {
+        "headline": "OpenTofu initiative announced",
+        "text": "In response to Terraform's license change, the OpenTofu initiative is announced by Gruntwork, Spacelift, and others, pledging to maintain a truly open source fork under the Linux Foundation."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2024",
+        "month": "1"
+      },
+      "text": {
+        "headline": "OpenTofu goes GA as Terraform fork",
+        "text": "OpenTofu 1.6.0 is released as a stable, drop-in replacement for Terraform, demonstrating the community's ability to fork and maintain infrastructure tooling when licenses become restrictive."
       }
     },
     {
