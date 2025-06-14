@@ -1,0 +1,387 @@
+{
+  "title": {
+    "text": {
+      "headline": "Permissiviness",
+      "text": "<p class=lead>What is wrong with Open source?</p>A timeline about OSS permissiviness."
+    },
+    "background": {
+      "url": "https://www.dedoimedo.com/images/computers_years/2013_2/linux-world-map-second-colored.png",
+      "alt": "The Great Linux World Map 2.0 by Dedoimedo"
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": "1985"
+      },
+      "end_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "Foundations Era"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1990"
+      },
+      "end_date": {
+        "year": "2000"
+      },
+      "text": {
+        "headline": "Web 1.0 Era"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2000"
+      },
+      "end_date": {
+        "year": "2010"
+      },
+      "text": {
+        "headline": "Web 2.0 & Early Cloud Era"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010"
+      },
+      "end_date": {
+        "year": "2020"
+      },
+      "text": {
+        "headline": "Cloud-Native Era"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020"
+      },
+      "end_date": {
+        "year": "2025"
+      },
+      "text": {
+        "headline": "Next-Gen(AI) Cloud Era"
+      }
+    }
+  ],
+  "events": [
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1969"
+      },
+      "text": {
+        "headline": "ARPANET is born",
+        "text": "The precursor to the modern Internet, ARPANET, is established, laying the groundwork for future open protocols."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1989"
+      },
+      "text": {
+        "headline": "WWW is born",
+        "text": "Tim Berners-Lee proposes the World Wide Web, enabling easy access to information and fostering a culture of sharing."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1985"
+      },
+      "text": {
+        "headline": "The GNU Manifesto is published. FSF is born",
+        "text": "Richard Stallman launches the Free Software Foundation (FSF) to promote free software principles, emphasizing user freedom and community collaboration."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1989"
+      },
+      "text": {
+        "headline": "GPL is released.",
+        "text": "The GNU General Public License (GPL) is released, establishing a strong copyleft license that requires derivative works to also be open source."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1991"
+      },
+      "text": {
+        "headline": "Linux kernel adopts GPL",
+        "text": "Linus Torvalds releases the first version of the Linux kernel under the GNU General Public License (GPL), establishing a model for collaborative software development."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1999"
+      },
+      "text": {
+        "headline": "Rise of Permissive Licenses",
+        "text": "The Apache Software Foundation (ASF) adopts the Apache License, promoting permissive licensing and fostering a new era of open source software development."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2000"
+      },
+      "text": {
+        "headline": "InnerSource coined by Tim O’Reilly.",
+        "text": "Tim O’Reilly coins the term 'InnerSource', describing the application of open source practices within organizations to improve collaboration and innovation."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2000"
+      },
+      "end_date": {
+        "year": "2005"
+      },
+      "text": {
+        "headline": "Web 2.0 emerges",
+        "text": "Cobalt Networks builds Linux-based servers and thrives by contributing back enhancements while turning OSS into marketable hardware."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2004"
+      },
+      "text": {
+        "headline": "Steven Weber publishes The Success of Open Source.",
+        "text": "Steven Weber publishes The Success of Open Source, highlighting business opportunities in community-driven models."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2007",
+        "month": "11"
+      },
+      "text": {
+        "headline": "The GNU Affero General Public License (GNU AGPL) is published.",
+        "text": "The GNU Affero General Public License (GNU AGPL) is published, extending the GPL to cover software used over a network, ensuring that users can access the source code of such software."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2008"
+      },
+      "text": {
+        "headline": "Andrew Lampitt coins 'Open Core'.",
+        "text": "Andrew Lampitt coins the term 'Open Core', describing a business model where a core product is open source, but additional features or services are proprietary."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2009"
+      },
+      "text": {
+        "headline": "The decline of GPL starts.",
+        "text": "Hadoop, OpenStack, Android, and others adopt permissive licenses. Mike Olson argues that Apache-style licenses foster mass adoption."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2012"
+      },
+      "text": {
+        "headline": "Growth of the Open Core model",
+        "text": "The Open Core model gains popularity, with companies like GitHub, Docker, and others adopting it to balance community contributions with commercial interests."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2012"
+      },
+      "text": {
+        "headline": "MongoDB abused by Cloud hyperscalers.",
+        "text": "MongoDB's original AGPL license protects network usage—but cloud providers begin exploiting OSS without contributing back."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2013",
+        "month": "07"
+      },
+      "text": {
+        "headline": "Movable Type Open Source initiative ends."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2014"
+      },
+      "text": {
+        "headline": "SugarCRM Open Source initiative ends."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Redis adopts Apache 2.0 + Commons Clause",
+        "text": "Redis Labs introduces the Commons Clause, a controversial addition to the Apache 2.0 license that restricts commercial use, leading to debates about open source purity."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2018",
+        "month": "10"
+      },
+      "text": {
+        "headline": "MongoDB adopts SSPL",
+        "text": "MongoDB, Inc. introduces the Server Side Public License (SSPL), a controversial license that restricts cloud providers from offering MongoDB as a service without contributing back to the community."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Confluent adopts Confluent Community License",
+        "text": "Confluent, the company behind Apache Kafka, introduces the Confluent Community License (CCL), a license that restricts commercial use while allowing community contributions."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2019",
+        "month": "02"
+      },
+      "text": {
+        "headline": "Redis adopts RSAL",
+        "text": "Redis Labs introduces the Redis Source Available License (RSAL), a license that restricts commercial use while allowing community contributions, similar to the SSPL."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2019"
+      },
+      "text": {
+        "headline": "CockroachDB adopts BUSL",
+        "text": "Cockroach Labs introduces the Business Source License (BUSL), a license that allows for community contributions while restricting commercial use, similar to the SSPL."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2019"
+      },
+      "text": {
+        "headline": "Sentry adopts BUSL",
+        "text": "Sentry, the error tracking platform, adopts the Business Source License (BUSL), allowing for community contributions while restricting commercial use."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2019"
+      },
+      "text": {
+        "headline": "AWS launches DocumentDB",
+        "text": "DocumentDB (MongoDB-compatible), prompting more SSPL/Elastic forks and AWS counter-moves (OpenSearch). Red Hat drops MongoDB from Fedora/RHEL due to SSPL."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2021"
+      },
+      "text": {
+        "headline": "Elastic adopts dual license AGPL/SSPL",
+        "text": "Elastic NV adopts a dual license model with the AGPL and SSPL, restricting commercial use while allowing community contributions."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2021"
+      },
+      "text": {
+        "headline": "AI growth",
+        "text": "Permissive licenses fuel AI training; massive data scraping becomes normalized across Google, Meta, OpenAI. IP & privacy protections struggle to keep pace."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2022",
+        "month": "11"
+      },
+      "text": {
+        "headline": "ChatGPT launches",
+        "text": "OpenAI launches ChatGPT, a large language model that showcases the potential of AI but raises concerns about data privacy and ethical use."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2022"
+      },
+      "text": {
+        "headline": "OpenAI adopts dual license Apache 2.0/CC BY-NC-SA 4.0",
+        "text": "OpenAI adopts a dual license model with Apache 2.0 and CC BY-NC-SA 4.0, restricting commercial use while allowing community contributions."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2023"
+      },
+      "text": {
+        "headline": "Redis forks Redis OSS",
+        "text": "Redis Labs forks Redis OSS, creating a new version of the software that is not compatible with the original."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2024"
+      },
+      "text": {
+        "headline": "Redis adopts dual license RSAL/SSPL",
+        "text": "Redis Labs adopts a dual license model with the Redis Source Available License (RSAL) and the Server Side Public License (SSPL), restricting commercial use while allowing community contributions."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2024"
+      },
+      "text": {
+        "headline": "GenAI disruption",
+        "text": "Hyperscalers (MSFT/GitHub/OpenAI) form billion-dollar AI partnerships, cementing a downstream, permissive-dependent AI monopolization model."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2024"
+      },
+      "text": {
+        "headline": "OSI publishes the Open Source AI Definition",
+        "text": "OSI publishes the Open Source AI Definition, tackling the unique licensing complications of AI models and data."
+      }
+    }
+  ]
+}
