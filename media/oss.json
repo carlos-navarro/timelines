@@ -70,61 +70,102 @@
     {
       "group": "Events",
       "start_date": {
-        "year": "1969"
+        "year": "1969",
+        "month": "10",
+        "day": "29"
       },
       "text": {
-        "headline": "ARPANET is born",
-        "text": "The precursor to the modern Internet, ARPANET, is established, laying the groundwork for future open protocols."
+        "headline": "ARPANET first message sent",
+        "text": "The first ARPANET message is sent between UCLA and Stanford, marking the birth of the internet and establishing the foundation for open networking protocols."
       }
     },
     {
       "group": "Events",
       "start_date": {
-        "year": "1989"
+        "year": "1989",
+        "month": "3"
       },
       "text": {
-        "headline": "WWW is born",
-        "text": "Tim Berners-Lee proposes the World Wide Web, enabling easy access to information and fostering a culture of sharing."
+        "headline": "World Wide Web proposal",
+        "text": "Tim Berners-Lee submits his proposal for the World Wide Web at CERN, creating the foundation for open web standards and information sharing."
       }
     },
     {
       "group": "Events",
       "start_date": {
-        "year": "1985"
+        "year": "1985",
+        "month": "3"
       },
       "text": {
-        "headline": "The GNU Manifesto is published. FSF is born",
-        "text": "Richard Stallman launches the Free Software Foundation (FSF) to promote free software principles, emphasizing user freedom and community collaboration."
+        "headline": "GNU Manifesto published, FSF founded",
+        "text": "Richard Stallman publishes the GNU Manifesto and founds the Free Software Foundation (FSF) to promote free software principles, emphasizing user freedom over proprietary control."
       }
     },
     {
       "group": "Events",
       "start_date": {
-        "year": "1989"
+        "year": "1989",
+        "month": "6"
       },
       "text": {
-        "headline": "GPL is released.",
-        "text": "The GNU General Public License (GPL) is released, establishing a strong copyleft license that requires derivative works to also be open source."
+        "headline": "GPL v1.0 released",
+        "text": "The GNU General Public License version 1.0 is released, establishing the first strong copyleft license that ensures derivative works remain free and open source."
       }
     },
     {
       "group": "Events",
       "start_date": {
-        "year": "1991"
+        "year": "1991",
+        "month": "8",
+        "day": "25"
       },
       "text": {
-        "headline": "Linux kernel adopts GPL",
-        "text": "Linus Torvalds releases the first version of the Linux kernel under the GNU General Public License (GPL), establishing a model for collaborative software development."
+        "headline": "Linux kernel first released",
+        "text": "Linus Torvalds announces the first version of the Linux kernel, initially released under his own license before adopting GPL v2 in 1992, establishing the model for collaborative kernel development."
       }
     },
     {
       "group": "Events",
       "start_date": {
-        "year": "1999"
+        "year": "1992",
+        "month": "1"
       },
       "text": {
-        "headline": "Rise of Permissive Licenses",
-        "text": "The Apache Software Foundation (ASF) adopts the Apache License, promoting permissive licensing and fostering a new era of open source software development."
+        "headline": "Linux adopts GPL v2",
+        "text": "Linux kernel switches from Torvalds' original license to GPL v2, ensuring that all kernel contributions remain free and open source, setting a precedent for large collaborative projects."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1995",
+        "month": "6"
+      },
+      "text": {
+        "headline": "Apache HTTP Server released",
+        "text": "The Apache HTTP Server is released, becoming one of the first major projects to use a permissive license, setting the stage for the Apache Software Foundation and permissive licensing model."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1998",
+        "month": "2"
+      },
+      "text": {
+        "headline": "Open Source Initiative founded",
+        "text": "The Open Source Initiative (OSI) is founded by Eric Raymond and Bruce Perens, coining the term 'Open Source' as a business-friendly alternative to 'Free Software'."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "1999",
+        "month": "3"
+      },
+      "text": {
+        "headline": "Apache Software Foundation founded",
+        "text": "The Apache Software Foundation (ASF) is incorporated, promoting the Apache License as a permissive alternative to copyleft licenses and establishing a new governance model for open source projects."
       }
     },
     {
@@ -133,21 +174,18 @@
         "year": "2000"
       },
       "text": {
-        "headline": "InnerSource coined by Tim O’Reilly.",
-        "text": "Tim O’Reilly coins the term 'InnerSource', describing the application of open source practices within organizations to improve collaboration and innovation."
+        "headline": "InnerSource coined by Tim O'Reilly",
+        "text": "Tim O'Reilly coins the term 'InnerSource', describing the application of open source practices within organizations to improve collaboration and innovation."
       }
     },
     {
       "group": "Events",
       "start_date": {
-        "year": "2000"
-      },
-      "end_date": {
-        "year": "2005"
+        "year": "2004"
       },
       "text": {
-        "headline": "Web 2.0 emerges",
-        "text": "Cobalt Networks builds Linux-based servers and thrives by contributing back enhancements while turning OSS into marketable hardware."
+        "headline": "Web 2.0 Conference and open source adoption",
+        "text": "Tim O'Reilly's Web 2.0 Conference popularizes the term. Companies like Google, Facebook, and others build their platforms on open source foundations while creating proprietary services on top."
       }
     },
     {
@@ -174,11 +212,33 @@
     {
       "group": "Events",
       "start_date": {
+        "year": "2008",
+        "month": "4"
+      },
+      "text": {
+        "headline": "GitHub launched",
+        "text": "GitHub is launched, democratizing access to Git repositories and making open source collaboration more accessible, while building a proprietary platform on top of open source tools."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
         "year": "2008"
       },
       "text": {
-        "headline": "Andrew Lampitt coins 'Open Core'.",
+        "headline": "Andrew Lampitt coins 'Open Core'",
         "text": "Andrew Lampitt coins the term 'Open Core', describing a business model where a core product is open source, but additional features or services are proprietary."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2007",
+        "month": "11"
+      },
+      "text": {
+        "headline": "Android Open Source Project launched",
+        "text": "Google releases Android under Apache License 2.0, demonstrating how permissive licenses enable proprietary extensions while maintaining an open core."
       }
     },
     {
@@ -187,8 +247,19 @@
         "year": "2009"
       },
       "text": {
-        "headline": "The decline of GPL starts.",
-        "text": "Hadoop, OpenStack, Android, and others adopt permissive licenses. Mike Olson argues that Apache-style licenses foster mass adoption."
+        "headline": "The shift toward permissive licensing accelerates",
+        "text": "Major projects like Hadoop, and later OpenStack, adopt Apache-style licenses. Mike Olson argues that permissive licenses foster mass adoption over GPL's protective approach."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2013",
+        "month": "3"
+      },
+      "text": {
+        "headline": "Docker launches with open core model",
+        "text": "Docker is released as open source, pioneering containerization while building a commercial platform around the open source engine, exemplifying the open core business model."
       }
     },
     {
@@ -204,11 +275,11 @@
     {
       "group": "Issues",
       "start_date": {
-        "year": "2012"
+        "year": "2009"
       },
       "text": {
-        "headline": "MongoDB abused by Cloud hyperscalers.",
-        "text": "MongoDB's original AGPL license protects network usage—but cloud providers begin exploiting OSS without contributing back."
+        "headline": "MongoDB launches with AGPL license",
+        "text": "MongoDB is released under AGPL license to prevent cloud providers from offering it as a service without contributing back, but enforcement proves challenging as cloud adoption grows."
       }
     },
     {
@@ -231,13 +302,25 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Events",
       "start_date": {
-        "year": "2018"
+        "year": "2018",
+        "month": "6"
       },
       "text": {
-        "headline": "Redis adopts Apache 2.0 + Commons Clause",
-        "text": "Redis Labs introduces the Commons Clause, a controversial addition to the Apache 2.0 license that restricts commercial use, leading to debates about open source purity."
+        "headline": "Microsoft acquires GitHub for $7.5B",
+        "text": "Microsoft's acquisition of GitHub marks a shift toward 'Microsoft loves Linux' strategy, while raising concerns about a proprietary company controlling the world's largest open source platform."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2018",
+        "month": "8"
+      },
+      "text": {
+        "headline": "Redis modules adopt Apache 2.0 + Commons Clause",
+        "text": "Redis Labs adds the Commons Clause to some Redis modules under Apache 2.0, restricting commercial use and sparking controversy about open source licensing."
       }
     },
     {
@@ -254,62 +337,78 @@
     {
       "group": "Issues",
       "start_date": {
-        "year": "2018"
+        "year": "2018",
+        "month": "9"
       },
       "text": {
         "headline": "Confluent adopts Confluent Community License",
-        "text": "Confluent, the company behind Apache Kafka, introduces the Confluent Community License (CCL), a license that restricts commercial use while allowing community contributions."
+        "text": "Confluent introduces the Confluent Community License (CCL) for Kafka components, allowing source access but restricting commercial competitive use, sparking debate about 'open source washing'."
       }
     },
     {
       "group": "Issues",
       "start_date": {
         "year": "2019",
-        "month": "02"
+        "month": "3"
       },
       "text": {
-        "headline": "Redis adopts RSAL",
-        "text": "Redis Labs introduces the Redis Source Available License (RSAL), a license that restricts commercial use while allowing community contributions, similar to the SSPL."
+        "headline": "Redis adopts RSAL and SSPL",
+        "text": "Redis Labs transitions from Commons Clause to Redis Source Available License (RSAL) and SSPL for some modules, continuing to restrict cloud provider usage."
       }
     },
     {
       "group": "Issues",
       "start_date": {
-        "year": "2019"
+        "year": "2019",
+        "month": "6"
       },
       "text": {
         "headline": "CockroachDB adopts BUSL",
-        "text": "Cockroach Labs introduces the Business Source License (BUSL), a license that allows for community contributions while restricting commercial use, similar to the SSPL."
+        "text": "Cockroach Labs adopts the Business Source License (BUSL) for CockroachDB, allowing free use with restrictions on competitive commercial services, introducing a time-based conversion to Apache 2.0."
       }
     },
     {
       "group": "Issues",
       "start_date": {
-        "year": "2019"
+        "year": "2019",
+        "month": "11"
       },
       "text": {
         "headline": "Sentry adopts BUSL",
-        "text": "Sentry, the error tracking platform, adopts the Business Source License (BUSL), allowing for community contributions while restricting commercial use."
-      }
-    },
-    {
-      "group": "Events",
-      "start_date": {
-        "year": "2019"
-      },
-      "text": {
-        "headline": "AWS launches DocumentDB",
-        "text": "DocumentDB (MongoDB-compatible), prompting more SSPL/Elastic forks and AWS counter-moves (OpenSearch). Red Hat drops MongoDB from Fedora/RHEL due to SSPL."
+        "text": "Sentry adopts the Business Source License (BUSL) for its core product, following the trend of developer tools companies seeking to prevent cloud providers from competing directly."
       }
     },
     {
       "group": "Issues",
       "start_date": {
-        "year": "2021"
+        "year": "2019",
+        "month": "1"
       },
       "text": {
-        "headline": "Elastic adopts dual license AGPL/SSPL",
-        "text": "Elastic NV adopts a dual license model with the AGPL and SSPL, restricting commercial use while allowing community contributions."
+        "headline": "AWS launches DocumentDB",
+        "text": "AWS launches DocumentDB (MongoDB-compatible), prompting MongoDB's SSPL adoption. Later AWS responds to Elasticsearch's license change with OpenSearch fork."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2021",
+        "month": "1"
+      },
+      "text": {
+        "headline": "Elastic adopts dual license Elastic/SSPL",
+        "text": "Elastic NV changes Elasticsearch and Kibana to dual licensing under Elastic License 2.0 and SSPL, restricting cloud provider usage and prompting AWS to fork OpenSearch."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2021",
+        "month": "6"
+      },
+      "text": {
+        "headline": "GitHub Copilot preview launched",
+        "text": "GitHub launches Copilot, an AI coding assistant trained on billions of lines of public code, raising questions about fair use of open source code for commercial AI training."
       }
     },
     {
@@ -318,29 +417,20 @@
         "year": "2021"
       },
       "text": {
-        "headline": "AI growth",
-        "text": "Permissive licenses fuel AI training; massive data scraping becomes normalized across Google, Meta, OpenAI. IP & privacy protections struggle to keep pace."
+        "headline": "AI growth accelerates OSS exploitation",
+        "text": "Permissive licenses fuel AI training datasets; massive code and data scraping becomes normalized across Google, Meta, OpenAI. Traditional IP protections struggle to keep pace."
       }
     },
     {
       "group": "Events",
       "start_date": {
         "year": "2022",
-        "month": "11"
+        "month": "11",
+        "day": "30"
       },
       "text": {
         "headline": "ChatGPT launches",
-        "text": "OpenAI launches ChatGPT, a large language model that showcases the potential of AI but raises concerns about data privacy and ethical use."
-      }
-    },
-    {
-      "group": "Issues",
-      "start_date": {
-        "year": "2022"
-      },
-      "text": {
-        "headline": "OpenAI adopts dual license Apache 2.0/CC BY-NC-SA 4.0",
-        "text": "OpenAI adopts a dual license model with Apache 2.0 and CC BY-NC-SA 4.0, restricting commercial use while allowing community contributions."
+        "text": "OpenAI launches ChatGPT, demonstrating the power of large language models trained on vast amounts of open source code and data, raising questions about fair use and attribution."
       }
     },
     {
@@ -349,18 +439,30 @@
         "year": "2023"
       },
       "text": {
-        "headline": "Redis forks Redis OSS",
-        "text": "Redis Labs forks Redis OSS, creating a new version of the software that is not compatible with the original."
+        "headline": "AI companies use permissive licenses without reciprocity",
+        "text": "Large AI companies like OpenAI, Google, and Meta train models on vast amounts of open source code and data under permissive licenses, often without contributing back improvements or acknowledging sources."
       }
     },
     {
       "group": "Issues",
       "start_date": {
-        "year": "2024"
+        "year": "2024",
+        "month": "4"
       },
       "text": {
-        "headline": "Redis adopts dual license RSAL/SSPL",
-        "text": "Redis Labs adopts a dual license model with the Redis Source Available License (RSAL) and the Server Side Public License (SSPL), restricting commercial use while allowing community contributions."
+        "headline": "Valkey and KeyDB emerge as Redis forks",
+        "text": "The Linux Foundation launches Valkey as an open source fork of Redis, while KeyDB and other community forks gain traction following Redis' license change."
+      }
+    },
+    {
+      "group": "Issues",
+      "start_date": {
+        "year": "2024",
+        "month": "3"
+      },
+      "text": {
+        "headline": "Redis changes to dual-license RSALv2/SSPL",
+        "text": "Redis Ltd. announces that Redis 7.4 and later will be dual-licensed under RSALv2 and SSPL, ending Redis' open source era and prompting community forks like Valkey."
       }
     },
     {
@@ -376,11 +478,23 @@
     {
       "group": "Events",
       "start_date": {
-        "year": "2024"
+        "year": "2024",
+        "month": "10",
+        "day": "28"
       },
       "text": {
-        "headline": "OSI publishes the Open Source AI Definition",
-        "text": "OSI publishes the Open Source AI Definition, tackling the unique licensing complications of AI models and data."
+        "headline": "OSI releases Open Source AI Definition v1.0",
+        "text": "The Open Source Initiative publishes the first official Open Source AI Definition, establishing criteria for what constitutes open source AI systems, including requirements for training data disclosure."
+      }
+    },
+    {
+      "group": "Events",
+      "start_date": {
+        "year": "2025"
+      },
+      "text": {
+        "headline": "Next-generation licensing debates intensify",
+        "text": "As AI continues to reshape software development, new licensing models emerge to address training data rights, model weights distribution, and the tension between innovation and attribution in the age of generative AI."
       }
     }
   ]
