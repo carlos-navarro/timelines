@@ -80,6 +80,16 @@
       }
     },
     {
+      "group": "Permissiveness",
+      "start_date": {
+        "year": "1988"
+      },
+      "text": {
+        "headline": "MIT License formalized",
+        "text": "The MIT License is formalized as one of the most permissive open source licenses, allowing unlimited freedom including proprietary use, becoming a template for maximum permissiveness."
+      }
+    },
+    {
       "group": "Events",
       "start_date": {
         "year": "1989",
@@ -91,7 +101,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Freedom",
       "start_date": {
         "year": "1985",
         "month": "3"
@@ -102,7 +112,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Freedom",
       "start_date": {
         "year": "1989",
         "month": "6"
@@ -110,6 +120,16 @@
       "text": {
         "headline": "GPL v1.0 released",
         "text": "The GNU General Public License version 1.0 is released, establishing the first strong copyleft license that ensures derivative works remain free and open source."
+      }
+    },
+    {
+      "group": "Permissiveness",
+      "start_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "BSD License emerges as permissive alternative",
+        "text": "The Berkeley Software Distribution license gains prominence, offering a permissive alternative to GPL that allows proprietary derivatives, establishing the foundation for the copyleft vs. permissive licensing divide."
       }
     },
     {
@@ -125,7 +145,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Freedom",
       "start_date": {
         "year": "1992",
         "month": "1"
@@ -133,6 +153,17 @@
       "text": {
         "headline": "Linux adopts GPL v2",
         "text": "Linux kernel switches from Torvalds' original license to GPL v2, ensuring that all kernel contributions remain free and open source, setting a precedent for large collaborative projects."
+      }
+    },
+    {
+      "group": "Freedom",
+      "start_date": {
+        "year": "1991",
+        "month": "6"
+      },
+      "text": {
+        "headline": "GPL v2.0 released",
+        "text": "GPL version 2.0 is released, refining copyleft principles and becoming the most widely adopted strong copyleft license, used by the Linux kernel and thousands of projects."
       }
     },
     {
@@ -147,7 +178,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Permissiveness",
       "start_date": {
         "year": "1998",
         "month": "2"
@@ -158,7 +189,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Permissiveness",
       "start_date": {
         "year": "1999",
         "month": "3"
@@ -169,7 +200,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Permissiveness",
       "start_date": {
         "year": "2000"
       },
@@ -194,19 +225,52 @@
         "year": "2004"
       },
       "text": {
-        "headline": "Steven Weber publishes The Success of Open Source.",
-        "text": "Steven Weber publishes The Success of Open Source, highlighting business opportunities in community-driven models."
+        "headline": "Steven Weber publishes The Success of Open Source",
+        "text": "Steven Weber publishes The Success of Open Source, highlighting business opportunities in community-driven models and the economic advantages of permissive licensing for corporate adoption."
       }
     },
     {
       "group": "Events",
       "start_date": {
+        "year": "2006",
+        "month": "3"
+      },
+      "text": {
+        "headline": "Amazon Web Services launches",
+        "text": "AWS launches with S3 and EC2, pioneering cloud computing and creating the infrastructure that will later enable cloud providers to monetize open source software without contributing back."
+      }
+    },
+    {
+      "group": "Freedom",
+      "start_date": {
+        "year": "2007",
+        "month": "6"
+      },
+      "text": {
+        "headline": "GPL v3.0 released",
+        "text": "GPL version 3.0 is released, addressing digital rights management and software patents, but faces resistance from projects like Linux kernel due to its additional restrictions."
+      }
+    },
+    {
+      "group": "Freedom",
+      "start_date": {
         "year": "2007",
         "month": "11"
       },
       "text": {
-        "headline": "The GNU Affero General Public License (GNU AGPL) is published.",
-        "text": "The GNU Affero General Public License (GNU AGPL) is published, extending the GPL to cover software used over a network, ensuring that users can access the source code of such software."
+        "headline": "GNU AGPL v3.0 published",
+        "text": "The GNU Affero General Public License (AGPL) v3.0 is published, extending copyleft to network-delivered software and attempting to close the 'web services loophole' in traditional GPL."
+      }
+    },
+    {
+      "group": "Permissiveness",
+      "start_date": {
+        "year": "2007",
+        "month": "11"
+      },
+      "text": {
+        "headline": "Android Open Source Project launched",
+        "text": "Google releases Android under Apache License 2.0, demonstrating how permissive licenses enable proprietary extensions while maintaining an open core, setting a template for mobile OS development."
       }
     },
     {
@@ -231,18 +295,7 @@
       }
     },
     {
-      "group": "Events",
-      "start_date": {
-        "year": "2007",
-        "month": "11"
-      },
-      "text": {
-        "headline": "Android Open Source Project launched",
-        "text": "Google releases Android under Apache License 2.0, demonstrating how permissive licenses enable proprietary extensions while maintaining an open core."
-      }
-    },
-    {
-      "group": "Events",
+      "group": "Permissiveness",
       "start_date": {
         "year": "2009"
       },
@@ -252,7 +305,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2013",
         "month": "3"
@@ -274,7 +327,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2012"
       },
@@ -284,7 +337,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2009"
       },
@@ -294,7 +347,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2013",
         "month": "07"
@@ -304,7 +357,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2014"
       },
@@ -335,7 +388,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2018",
         "month": "8"
@@ -346,7 +399,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2018",
         "month": "10"
@@ -357,7 +410,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2018",
         "month": "9"
@@ -368,7 +421,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2019",
         "month": "3"
@@ -379,7 +432,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2019",
         "month": "6"
@@ -390,7 +443,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2019",
         "month": "11"
@@ -412,7 +465,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Permissiveness",
       "start_date": {
         "year": "2019",
         "month": "1"
@@ -423,7 +476,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2021",
         "month": "1"
@@ -456,7 +509,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Permissiveness",
       "start_date": {
         "year": "2021"
       },
@@ -478,7 +531,7 @@
       }
     },
     {
-      "group": "Events",
+      "group": "Permissiveness",
       "start_date": {
         "year": "2023"
       },
@@ -488,7 +541,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2023",
         "month": "6"
@@ -499,7 +552,18 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
+      "start_date": {
+        "year": "2023",
+        "month": "7"
+      },
+      "text": {
+        "headline": "Rocky Linux and AlmaLinux adapt to RHEL changes",
+        "text": "Rocky Linux and AlmaLinux, the CentOS replacements, announce they will shift from RHEL source to alternative sources like CentOS Stream and upstream packages to continue their RHEL-compatible distributions."
+      }
+    },
+    {
+      "group": "Proprietariness",
       "start_date": {
         "year": "2023",
         "month": "8"
@@ -510,7 +574,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Permissiveness",
       "start_date": {
         "year": "2023",
         "month": "8"
@@ -521,7 +585,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Permissiveness",
       "start_date": {
         "year": "2024",
         "month": "1"
@@ -532,7 +596,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Permissiveness",
       "start_date": {
         "year": "2024",
         "month": "4"
@@ -543,7 +607,7 @@
       }
     },
     {
-      "group": "Issues",
+      "group": "Proprietariness",
       "start_date": {
         "year": "2024",
         "month": "3"
