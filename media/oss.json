@@ -548,7 +548,7 @@
       },
       "text": {
         "headline": "Red Hat restricts RHEL source code access",
-        "text": "Red Hat announces it will only make RHEL source code available to paying customers, effectively ending public access and violating the spirit of GPL while technically remaining compliant."
+        "text": "<p>Red Hat announces it will only make RHEL source code available to paying customers, effectively ending public access and violating the spirit of GPL while technically remaining compliant.</p><p class=\"tl-caption\"><a href=\"https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes\">Read Red Hat response here.</a></p>"
       }
     },
     {
