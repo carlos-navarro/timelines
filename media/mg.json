@@ -1,0 +1,391 @@
+{
+  "title": {
+    "text": {
+      "headline": "Marina Garcés",
+      "text": "[Barcelona, 1973](https://www.marinagarces.com/p/intro.html). És filòsofa i després de 15 anys com a professora titular de filosofia a la Universitat de Saragossa, actualment és professora a la Universitat Oberta de Catalunya, on dirigeix el Màster de filosofia pels reptes contemporanis i el grup de recerca MUSSOL.<br>[Llibres / Books](https://www.marinagarces.com/p/publicaciones.html)"
+    },
+    "media": {
+      "url": "media/bmg.jpeg",
+      "credit": "",
+      "caption": "",
+      "thumbnail": ""
+    }
+  },
+  "eras": [],
+  "events": [
+    {
+      "start_date": {
+        "year": 2002
+      },
+      "text": {
+        "headline": "En las prisiones de lo posible",
+        "text": "[En las prisiones de lo posible](https://www.bellaterra.coop/es/libros/en-las-prisiones-de-lo-posible), Barcelona, Edicions Bellaterra, 2002"
+      },
+      "media": {
+        "url": "https://www.bellaterra.coop/images/Articulos/enlasprisiones.gif",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "text": {
+        "headline": "Un mundo común",
+        "text": "[Un mundo común](https://www.bellaterra.coop/es/libros/un-mundo-comun), Barcelona, Edicions Bellaterra, 2013"
+      },
+      "media": {
+        "url": "https://www.bellaterra.coop/images/Articulos/SGU_281_MUNDO_COMUN_Coberta---copia.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "text": {
+        "headline": "El compromís",
+        "text": "[El compromís / Commitment](https://www.cccb.org/es/publicaciones/ficha/64-el-compromis-commitment/45217), Col·lecció Breus, CCCB, 2013"
+      },
+      "media": {
+        "url": "https://www.cccb.org/rcs_gene/El-compromis_1.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2015
+      },
+      "text": {
+        "headline": "Filosofia inacabada",
+        "text": "[Filosofía inacabada](https://www.galaxiagutenberg.com/producto/filosofia-inacabada-2/), Barcelona, Galaxia Gutenberg, 2015"
+      },
+      "media": {
+        "url": "https://www.galaxiagutenberg.com/wp-content/uploads/2017/08/Cub_Filosofia-inaca192575E.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "text": {
+        "headline": "Fora de classe",
+        "text": "[Fora de classe. Textos de filosofia de guerrilla](http://www.arcadia-editorial.com/llibre.php?id=62), Arcàdia Ed., 2016 "
+      },
+      "media": {
+        "url": "https://www.arcadia-editorial.com/wp-content/uploads/2018/06/978-84-944680-7-0-634x1024.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "text": {
+        "headline": "Humanitats en transició",
+        "text": "[Humanitats en transició / Humanities in transition](https://www.cccb.org/ca/publicacions/fitxa/80-humanitats-en-transicio-humanities-in-transition/228091), Col·lecció Breus, CCCB, 2016"
+      },
+      "media": {
+        "url": "https://www.cccb.org/rcs_gene/port.2017_CCCB-_GARCES.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Nova il·lustració radical",
+        "text": "[Nova il·lustració radical](https://www.anagrama-ed.es/libro/nuevos-cuadernos-anagrama/nova-il-lustracio-radical/9788433916150/NCA_5) / [Nueva ilustración radical](https://www.anagrama-ed.es/libro/nuevos-cuadernos-anagrama/nueva-ilustracion-radical/9788433916143/NCA_4), Anagrama, 2017"
+      },
+      "media": {
+        "url": "https://www.anagrama-ed.es/uploads/media/portadas/0001/17/xthumb_16784_portadas_big.jpeg.pagespeed.ic.0-VXzuVV_7.webp",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Ciutat princesa",
+        "text": "[Ciutat princesa](http://www.galaxiagutenberg.com/libros/ciutat-princesa/) / [Ciudad princesa](http://www.galaxiagutenberg.com/libros/ciudad-princesa/), Galaxia Gutenberg, 2018 "
+      },
+      "media": {
+        "url": "https://www.galaxiagutenberg.com/wp-content/uploads/2018/04/Cub_Ciutat-Princesa_dilve.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Humanitats en acció",
+        "text": "[Humanitats en acció](http://www.raigverdeditorial.cat/cataleg/humanitats-en-accio/) / [Humanidades en acción](http://www.rayoverde.es/catalogo/humanitats-en-accio/) (Libro colectivo) Raig Verd / Rayo Verde"
+      },
+      "media": {
+        "url": "https://www.raigverdeditorial.cat/wp-content/uploads//2019/01/2a_ed_Portada-Humanitats-en-accio-193x300.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Escola d'aprenents",
+        "text": "[Escola d'aprenents](http://www.galaxiagutenberg.com/libros/escola-daprenents/) / [Escuela de aprendices](http://www.galaxiagutenberg.com/libros/escuela-de-aprendices/), Galaxia Gutenberg, 2020 "
+      },
+      "media": {
+        "url": "https://www.galaxiagutenberg.com/wp-content/uploads/2020/11/Cub_Escola-d-aprenents_cat_def-1037x1536.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "Males companyies",
+        "text": "[Males companyies](https://www.galaxiagutenberg.com/producto/males-companyies/) / [Malas compañías](https://www.galaxiagutenberg.com/producto/malas-companias/), Galaxia Gutenberg, 2022"
+      },
+      "media": {
+        "url": "https://www.galaxiagutenberg.com/wp-content/uploads/2022/09/Cub_Males-companyies_cat_def-1043x1536.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "text": {
+        "headline": "El temps de la promesa",
+        "text": "[El temps de la promesa](https://www.anagrama-ed.es/libro/nuevos-cuadernos-anagrama/el-temps-de-la-promesa/9788433921604/NCA_65) / [El tiempo de la promesa](https://www.anagrama-ed.es/libro/nuevos-cuadernos-anagrama/el-tiempo-de-la-promesa/9788433918871/NCA_66), Anagrama, 2023"
+      },
+      "media": {
+        "url": "https://www.anagrama-ed.es/uploads/media/portadas/0001/28/xthumb_27362_portadas_big.jpeg.pagespeed.ic.dlSBtIvrZM.webp",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025
+      },
+      "text": {
+        "headline": "La passió dels estranys",
+        "text": "[La passió dels estranys](https://www.galaxiagutenberg.com/producto/la-passio-dels-estranys/) / [La pasión de los extraños](https://www.galaxiagutenberg.com/producto/la-pasion-de-los-extranos/), Galaxia Gutenberg, 2025"
+      },
+      "media": {
+        "url": "https://www.galaxiagutenberg.com/wp-content/uploads/2025/01/Cub_La-passio-dels-estranys-1037x1536.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "text": {
+        "headline": "Un esfuerzo más, Bellaterra, Barcelona",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Amb Espai en Blanc"
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "text": {
+        "headline": "El impasse de lo político, Bellaterra, Barcelona",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Amb Espai en Blanc"
+    },
+    {
+      "start_date": {
+        "year": 2010
+      },
+      "text": {
+        "headline": "El combate del pensamiento, Bellaterra, Barcelona",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Amb Espai en Blanc"
+    },
+    {
+      "start_date": {
+        "year": 2009
+      },
+      "text": {
+        "headline": "La fuerza del anonimato, Bellaterra, Barcelona",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Amb Espai en Blanc"
+    },
+    {
+      "start_date": {
+        "year": 2007
+      },
+      "text": {
+        "headline": "La sociedad terapéutica, Bellaterra, Barcelona",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Amb Espai en Blanc"
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Vida y política, Bellaterra, Barcelona",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Amb Espai en Blanc"
+    },
+    {
+      "start_date": {
+        "year": 2002
+      },
+      "text": {
+        "headline": "Mar Traful, Por una política nocturna, Debate, Madrid",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Amb Espai en Blanc"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "Ecologías de la imaginación",
+        "text": "Garcés, M. (editor): Monográfico: Ecologías de la imaginación / Ecologies of imagination, Artnodes N29 (2022), Online ISSN: 1695-5951"
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Publicacions Coordinades"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Comunidades de práctica y el futuro de la educación",
+        "text": "Garcés, M., Casado da Rocha, A. Ausín, T., (eds) COMUNIDADES DE PRÁCTICA Y EL FUTURO DE LA EDUCACIÓN, Dilemata. Revista Internacional de Éticas Aplicadas, Núm. 33 (2020)"
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Publicacions Coordinades"
+    },
+    {
+      "start_date": {
+        "year": 2019
+      },
+      "text": {
+        "headline": "Humanitats en acció",
+        "text": "Garcés, M., (editora), Humanitats en acció / Humanidades en acción, Raig Verd / Rayo Verde, 2019"
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Publicacions Coordinades"
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "end_date": {
+        "year": 2019
+      },
+      "text": {
+        "headline": "The Role of Humanities in a Changing World: Interrelation Between Science, Technology and Humanities",
+        "text": "Garcés, M., Bueno, D., Casanovas, J. (editores): [HIGHER EDUCATION IN THE WORLD 7 “THE ROLE OF HUMANITIES IN A CHANGING WORLD: INTERRELATION BETWEEN SCIENCE, TECHNOLOGY AND HUMANITIES”](http://www.guninetwork.org/report/higher-education-world-7), de GUNI-ACUP Global University Network for Innovation – Barcelona 2017-2019"
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Publicacions Coordinades"
+    }
+  ]
+}

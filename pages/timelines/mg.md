@@ -1,7 +1,7 @@
 ---
 title: Marina Garcés
 layout: embed
-timeline: mg
+timeline-json: mg.json
 timeline-options: 
   start_at_end: false
   hash_bookmark: true

@@ -1,7 +1,9 @@
 ---
 title: A Dev+ Timeline
-layout: embed
-timeline: devx
+nav: Dev+
+nav_order: 20
+layout: default
+timeline-json: dev+.json
 timeline-options: 
   start_at_end: false
   hash_bookmark: true

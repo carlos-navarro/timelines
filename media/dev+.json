@@ -1,0 +1,680 @@
+{
+  "title": {
+    "text": {
+      "headline": "Dev+",
+      "text": "<p class=lead>A Dev+ Timeline</p>The hidden forces catalyzing engineering communities."
+    },
+    "background": {
+      "url": "https://wallpapercave.com/wp/wp4005452.jpg",
+      "alt": "Machine Wallpaper by WallpaperCave"
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": "1960"
+      },
+      "end_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "Foundations Era"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1990"
+      },
+      "end_date": {
+        "year": "2000"
+      },
+      "text": {
+        "headline": "Web 1.0 Era"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2000"
+      },
+      "end_date": {
+        "year": "2010"
+      },
+      "text": {
+        "headline": "Web 2.0 & Early Cloud Era"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010"
+      },
+      "end_date": {
+        "year": "2020"
+      },
+      "text": {
+        "headline": "Cloud-Native Era"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020"
+      },
+      "end_date": {
+        "year": "2025"
+      },
+      "text": {
+        "headline": "Next-Gen(AI) Cloud Era"
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": 1948
+      },
+      "text": {
+        "headline": "Toyota’s Lean Manufacturing is born",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 1975
+      },
+      "text": {
+        "headline": "The Mythical Man-Month.Brooks F. P.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Software Evangelist term coined by Mike Murray",
+        "text": ""
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/1200px-Apple_Computer_Logo_rainbow.svg.png",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "DevRel program starts at Apple",
+        "text": "" 
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/1200px-Apple_Computer_Logo_rainbow.svg.png",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 1984
+      },
+      "text": {
+        "headline": "The Goal (Theory of Constraints). Goldratt E. M.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 1997
+      },
+      "text": {
+        "headline": "DevRel program starts at Microsoft",
+        "text": ""
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Windows_Logo_%281992-2001%29.svg/2368px-Windows_Logo_%281992-2001%29.svg.png",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 1999
+      },
+      "text": {
+        "headline": "Extreme Programming Explained by Kent Beck spreads Agile values further.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2001
+      },
+      "text": {
+        "headline": "Manifesto for Agile Software Development. Beck K. et al.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2003
+      },
+      "text": {
+        "headline": "SRE coined by Ben Treynor Sloss at Google",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2008
+      },
+      "text": {
+        "headline": "Manifesto for Software Craftsmanship. Martin R. C. et al.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2009
+      },
+      "text": {
+        "headline": "DevOps term coined by Patrick Debois",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2009
+      },
+      "text": {
+        "headline": "First DevOpsDays held in Ghent, Belgium.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Conferences"
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "text": {
+        "headline": "DX term coined by Jeremiah Lee",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "text": {
+        "headline": "The Phoenix Project",
+        "text": "<p class=lead>Kim G. et al.</p>A Novel about IT, DevOps, and Helping Your Business Win"
+      },
+      "media": {
+        "url": "https://itrevolution.b-cdn.net/wp-content/uploads/2018/02/TPP_Front_4th-ed_foil-comp_RGB-scaled.jpg.webp",
+        "credit": "https://itrevolution.com/product/the-phoenix-project/",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "text": {
+        "headline": "System Z, now Backstage, is born at Spotify",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "text": {
+        "headline": "First DevOpsCon",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Conferences"
+    },
+    {
+      "start_date": {
+        "year": 2015
+      },
+      "text": {
+        "headline": "First DevRelCon",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Conferences"
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "text": {
+        "headline": "The DevOps Handbook",
+        "text": "<p class=lead>Kim G. et al.</p>How to Create World-Class Agility, Reliability, & Security in Technology Organizations"
+      },
+      "media": {
+        "url": "https://itrevolution.b-cdn.net/wp-content/uploads/2022/06/DOHB2_front_08312021-scaled.jpg.webp",
+        "credit": "https://itrevolution.com/product/the-devops-handbook-second-edition/",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "text": {
+        "headline": "Site Reliability Engineering",
+        "text": "<p class=lead>Beyer B. et al.</p>Google was one of the first companies to define what business-IT alignment meant in practice, and went on to inform the concept of DevOps for a wider IT community."
+      },
+      "media": {
+        "url": "https://lh3.googleusercontent.com/JvM0JKKuZNJMWAC5iZPm4j-mdS9ORpZbpEWzg0zmJ0i2_xgIcju0OLXJ-zmnvz_GtFFGHe9qZ9Dz-6W0u5fRLFQaRlOI_hGzbetw=rw",
+        "credit": "https://sre.google/sre-book/table-of-contents/",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "text": {
+        "headline": "Platform Revolution",
+        "text": "<p class=lead>Choudary S. P. et al.</p>A practical guide to the new economy that is transforming the way we live, work, and play."
+      },
+      "media": {
+        "url": "https://cdn2.wwnorton.com/wwnproducts/TRADE/5/5/9780393354355/9780393354355_300.jpg",
+        "credit": "https://platformthinkinglabs.com/",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Kubernetes becomes first CNCF project to graduate",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "GitHub Actions launches (shift-left CI/CD as code)",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2019
+      },
+      "text": {
+        "headline": "Team Topologies",
+        "text": "<p class=lead>Skelton M., Pais M.</p>Organizing Business and Technology Teams for Fast Flow"
+      },
+      "media": {
+        "url": "https://itrevolution.b-cdn.net/wp-content/uploads/2022/06/TeamTop_cover_RGB_flat_stroke-scaled.jpg",
+        "credit": "https://itrevolution.com/product/team-topologies/",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2019
+      },
+      "text": {
+        "headline": "The Unicorn Project",
+        "text": "<p class=lead>Kim G.</p>A Novel about Digital Disruption, Developers, and Overthrowing the Ancient Powerful Order"
+      },
+      "media": {
+        "url": "https://itrevolution.b-cdn.net/wp-content/uploads/2022/06/201874.807f6bcfd5300074c312c3c85bd91c62.png.webp",
+        "credit": "https://itrevolution.com/product/the-unicorn-project/",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "DPE term coined by Hans Dockter at Gradle",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "The DevOps Handbook, 2nd edition",
+        "text": "<p class=lead>Kim G. et al.</p>How to Create World-Class Agility, Reliability, & Security in Technology Organizations"
+      },
+      "media": {
+        "url": "https://itrevolution.b-cdn.net/wp-content/uploads/2022/06/DOHB2_front_08312021-scaled.jpg.webp",
+        "credit": "https://itrevolution.com/product/the-devops-handbook-second-edition/",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "First DPE Summit",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Conferences"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "First DevX Conf",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Conferences"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "Investments Unlimited",
+        "text": "<p class=lead>Beal H. et al.</p>A Novel about DevOps, Security, Audit Compliance, and Thriving in the Digital Age"
+      },
+      "media": {
+        "url": "https://itrevolution.b-cdn.net/wp-content/uploads/2022/07/IU_CVR_front_RGB-scaled.jpg.webp",
+        "credit": ": https://itrevolution.com/product/investments-unlimited/",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "autolink": true,
+      "group": "Culture"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "Backstage project joins the CNCF Incubator",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "First SREday led by Google",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Conferences"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "First PlatformCon by Humanitec",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Conferences"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "text": {
+        "headline": "AI Copilots (GitHub Copilot, Tabnine, etc.) go mainstream impacting developer workflows.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "text": {
+        "headline": "Platform Engineering becomes a top trend in DevOps circles (backed by CNCF and Gartner).",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "text": {
+        "headline": "DX platform category formalized by Gartner.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2024
+      },
+      "text": {
+        "headline": "PromptOps emerges as a term to describe AI-driven operational interfaces.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2024
+      },
+      "text": {
+        "headline": "FinOps Foundation introduces Frictionless Engineering concept linking platform UX and cost governance.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    },
+    {
+      "start_date": {
+        "year": 2024
+      },
+      "text": {
+        "headline": "CNCF launches App Developer SIG to focus on DX  and platform tooling alignment.",
+        "text": ""
+      },
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "group": "Trends"
+    }
+  ]
+}
