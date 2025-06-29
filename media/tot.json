@@ -21,7 +21,7 @@
       },
       "text": {
         "headline": "What's wrong with Open Source?",
-        "text": "<p class=\"lead\"><a href=\"/timelines/oss/\">A timeline about OSS permissiviness</a></p>"
+        "text": "<p class=\"lead\"><a href=\"/timelines/oss\">A timeline about OSS permissiviness</a></p>"
       },
       "media": {
         "url": "https://www.dedoimedo.com/images/computers_years/2013_2/linux-world-map-second-colored.png",
@@ -38,7 +38,7 @@
       },
       "text": {
         "headline": "A Dev+ Timeline",
-        "text": "<p class=\"lead\"><a href=\"/timelines/dev+/\">The hidden forces catalyzing engineering communities</a></p>"
+        "text": "<p class=\"lead\"><a href=\"/timelines/dev+\">The hidden forces catalyzing engineering communities</a></p>"
       },
       "media": {
         "url": "https://wallpapercave.com/wp/wp4005452.jpg",
